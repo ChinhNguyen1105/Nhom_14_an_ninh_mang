@@ -1,0 +1,3 @@
+D:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\RSA_DigitalSignature.dir/objects.a
+D:\QT\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\RSA_DigitalSignature.dir/objects.a @CMakeFiles\RSA_DigitalSignature.dir\objects1.rsp
+D:\QT\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\RSA_DigitalSignature.dir/objects.a -Wl,--no-whole-archive -o RSA_DigitalSignature.exe -Wl,--out-implib,libRSA_DigitalSignature.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RSA_DigitalSignature.dir\linkLibs.rsp
